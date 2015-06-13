@@ -1,0 +1,24 @@
+{
+  "name": "riot-tag-base-icon",
+  "version": "0.1.0",
+  "description": "Display an icon. By default a 1.5rem sized image.",
+  "main": "base-icon.tag",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/riot-tags/base-icon.git"
+  },
+  "keywords": [
+    "riot-tag",
+    "base",
+    "icon"
+  ],
+  "author": "Per-Håkan Westman <ph@aspsele.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riot-tags/base-icon/issues"
+  },
+  "homepage": "https://github.com/riot-tags/base-icon"
+}
